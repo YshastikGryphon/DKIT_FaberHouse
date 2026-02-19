@@ -1,56 +1,56 @@
 const all = [
   {
     id: 1,
-    img: "../img/dacha/dacha1.jpg",
+    img: "../../img/dacha/dacha1.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 2,
-    img: "../img/dacha/dacha2.jpg",
+    img: "../../img/dacha/dacha2.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 3,
-    img: "../img/dacha/dacha3.jpg",
+    img: "../../img/dacha/dacha3.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 4,
-    img: "../img/dacha/dacha4.jpg",
+    img: "../../img/dacha/dacha4.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 5,
-    img: "../img/dacha/dacha1.jpg",
+    img: "../../img/dacha/dacha1.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 6,
-    img: "../img/dacha/dacha2.jpg",
+    img: "../../img/dacha/dacha2.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 7,
-    img: "../img/dacha/dacha3.jpg",
+    img: "../../img/dacha/dacha3.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 8,
-    img: "../img/dacha/dacha4.jpg",
+    img: "../../img/dacha/dacha4.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
@@ -59,14 +59,14 @@ const all = [
 const brevno = [
   {
       id: 2,
-      img: "../img/dacha/dacha2.jpg",
+      img: "../../img/dacha/dacha2.jpg",
       title: "ДД14",
       size: "96 м&sup2",
       price: "493 000 ₽",
     },
     {
       id: 6,
-      img: "../img/dacha/dacha2.jpg",
+      img: "../../img/dacha/dacha2.jpg",
       title: "ДД14",
       size: "96 м&sup2",
       price: "493 000 ₽",
@@ -75,7 +75,7 @@ const brevno = [
 const banya = [
   {
     id: 2,
-    img: "../img/house/banya/2.jpg",
+    img: "../../img/house/banya/2.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
@@ -84,14 +84,14 @@ const banya = [
 const brus = [
   {
     id: 8,
-    img: "../img/dacha/dacha4.jpg",
+    img: "../../img/dacha/dacha4.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 4,
-    img: "../img/dacha/dacha4.jpg",
+    img: "../../img/dacha/dacha4.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
@@ -100,7 +100,7 @@ const brus = [
 const carcas = [
   {
     id: 3,
-    img: "../img/dacha/dacha3.jpg",
+    img: "../../img/dacha/dacha3.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
@@ -116,14 +116,14 @@ const carcas = [
 const derevo = [
   {
     id: 1,
-    img: "../img/dacha/dacha1.jpg",
+    img: "../../img/dacha/dacha1.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 5,
-    img: "../img/dacha/dacha1.jpg",
+    img: "../../img/dacha/dacha1.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
@@ -132,14 +132,14 @@ const derevo = [
 const fundament = [
   {
       id: 4,
-    img: "../img/dacha/dacha4.jpg",
+    img: "../../img/dacha/dacha4.jpg",
     title: "ДД14",
     size: "96 м&sup2",
     price: "493 000 ₽",
   },
   {
     id: 4,
-  img: "../img/dacha/dacha4.jpg",
+  img: "../../img/dacha/dacha4.jpg",
   title: "ДД14",
   size: "96 м&sup2",
   price: "493 000 ₽",
